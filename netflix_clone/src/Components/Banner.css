@@ -1,14 +1,12 @@
 .banner{
-    border-radius: 10px;
-    margin-left: 10px;
-    margin-right: 10px;
-    color: wheat;
+    color: whitesmoke;
     object-fit: contain;
-    height: 470px;
+    height: 500px;
    }
    .banner-contents{
-       margin-left: 80px;
-       padding-top: 100px;
+       margin-left: 4rem;
+       padding-top: 120px;
+       margin-right: 50%;
        height: 190px;
    }
    .banner-title{
@@ -23,7 +21,7 @@
        font-size: 1.1rem;
        max-width: 500px;
        height: 80px;
-       color: white;
+       color: #fff;
    
    }
    .banner-button{
